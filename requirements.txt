@@ -1,0 +1,4 @@
+pandas
+scikit-learn
+kagglehub>=0.4.1
+notebook

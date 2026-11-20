@@ -1,0 +1,14 @@
+# Data and generated outputs
+data/
+outputs/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Windows/WSL artifacts
+*Zone.Identifier
